@@ -14,7 +14,7 @@ Nesse curso não  abordaremos o principio das programação com javascript esper
 Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a linguagem e ter uma base sobre o mongoDB.
 
 
-# Ementa Basica (Sem metas de Alunos)
+# Ementa 
 
 ## Introdução
   - Apresentação do Professor
@@ -49,3 +49,25 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
 ## Deploy
   - Heroku
   - Mlab
+
+
+## Modulo extra (Caso bata a meta de 300 alunos)
+
+# Integracão com Pagarme
+ - Planos
+ - Assinatura
+ - Recebedores
+ - Clientes
+ - Cartões
+ - Transaction
+
+# Modifcando Api
+ - Integração com Pagamento
+
+# Gelocalização
+ - Consultas
+ - Qual estacionamento proximo ?
+
+# Segurança 
+ - Implementação de padrões de segurança
+
