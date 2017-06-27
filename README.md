@@ -50,7 +50,7 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
   - Mlab
 
 
-## Modulo extra (Caso bata a meta de 300 alunos)
+## Modulo extra 
 
 ## Autenticação com JWT
  - Gerar Token
