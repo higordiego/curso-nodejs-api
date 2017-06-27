@@ -18,9 +18,9 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
 ## Introdução
   - Apresentação do Professor
   - Entendendo o Projeto que será Criado
-  -  Criar repositorio (github)
-  -  Criar Servidor (heroku)
-  -  Criar servidor banco de dados (mlab)
+  - Criar repositorio (github)
+  - Criar Servidor (heroku)
+  - Criar servidor banco de dados (mlab)
 
 ## Estrutura Base
   - Criando Estrutura Básica com o Express
@@ -50,7 +50,7 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
   - Mlab
 
 
-## Modulo extra I (Pagamento + Autenticação)
+## Modulo Extra I (Pagamento + Autenticação)
 
 ## Autenticação com JWT
  - Gerar Token
@@ -89,11 +89,11 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
 
 ***Deve está se perguntando porque vai ser "pago"?***
 
-Não que seja "pago" teremos um modulos a parte que contém integração com pagamento, consultas com gelocalização e implementando alguns padrões de segurança na sua api. Peço ajuda simbolica para manter o curso pois tenho custo como (energia, água, internet, etc..) então como a vida necessita de dinheiro e todos nós necessitamos de conhecimento porque não doar alguns trocados para obtelo.
+Não que seja "pago" teremos modulos a parte que contém integração com pagamento, consultas com gelocalização e implementando alguns padrões de segurança na sua api. Peço ajuda simbolica para manter o curso pois tenho custo como (energia, água, internet, etc..) então como a vida necessita de dinheiro e  nós necessitamos de conhecimento porque não doar alguns trocados para obtelo.
 
 ***Ahhh, então preciso pagar para assistir os videos?***
 
-Não, o curso sem o modulos extras é gratuito então poderá assistir as aulas no youtube quantas vezes quiser e até baixar(eu sei que vc vai.. hehe)então ajuda é opção só lembrando que o modulos extras só será divulgado a publico caso tenha alcançado a meta.
+Não, o curso sem o modulos extras é gratuito então poderá assistir as aulas no youtube quantas vezes quiser e até baixar(eu sei que vc vai.. hehe) então ajuda é opção só lembrando que o modulos extras só será divulgado a publico caso tenha alcançado a meta.
 
 ***Mas, doei mas não alcançou a meta, e ai ?***
 
@@ -105,6 +105,4 @@ Bom no caso das pessoas que doarem e não atingiu a meta estipulada, farei aulas
  - Custo: R$35
  - Meta: 300 alunos
  - Data: quando alcançar a meta
-
-
 
