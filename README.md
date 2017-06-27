@@ -53,6 +53,11 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
 
 ## Modulo extra (Caso bata a meta de 300 alunos)
 
+# Autenticação com JWT
+ - Gerar Token
+ - Gerenciar Token
+ - Segurança em Rotas autenticadas
+
 # Integracão com Pagarme
  - Planos
  - Assinatura
@@ -60,6 +65,7 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
  - Clientes
  - Cartões
  - Transaction
+
 
 # Modifcando Api
  - Integração com Pagamento
