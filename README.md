@@ -14,38 +14,38 @@ Nesse curso não  abordaremos o principio das programação com javascript esper
 Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a linguagem e ter uma base sobre o mongoDB.
 
 
-## Ementa Basica (Sem metas de Alunos)
+# Ementa Basica (Sem metas de Alunos)
 
-# Introdução
+## Introdução
   - Apresentação do Professor
   - Entendendo o Projeto que será Criado
   -  Criar repositorio (github)
   -  Criar Servidor (heroku)
   -  Criar servidor banco de dados (mlab)
 
-# Estrutura Base
+## Estrutura Base
   - Criando Estrutura Básica com o Express
   - Conexão com o MongoDB
   
-# Rotas Express
+## Rotas Express
   - Validates
   - Retornos
   - StatusCode
 
-# Models MongoDB
+## Models MongoDB
   - Schema
   - Relacionamentos ?
   - Estrutura
 
-# Controllers
+## Controllers
   - CRUD 
   - Tratamento de Dados
 
-# Regra de Negocio
+## Regra de Negocio
   - O que pode ?
   - Isso depende disso ou aquilo ?
   - Implementação de Regras
 
-# Deploy
+## Deploy
   - Heroku
-  - M
+  - Mlab
