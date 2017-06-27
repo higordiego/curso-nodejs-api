@@ -7,7 +7,7 @@
 
 Nesse curso abordaremos o uso do nodejs com o banco de dados MongoDB criando uma api restful usando alguns padrões de projetos e no final do curso teremos uma api de estacionamento.
 
-Nesse curso não  abordaremos o principio das programação com javascript esperamos que você já tenha bagagem da tecnologia juntamente com o mongoDB.
+Nesse curso não  abordaremos o principio da programação com javascript esperamos que você já tenha bagagem da tecnologia juntamente com o mongoDB.
 
 # O que seria essa bagagem ?
 
