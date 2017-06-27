@@ -96,7 +96,7 @@ Bom no caso das pessoas que doarem e não atingiu a meta estipulada, farei aulas
 
 
 
-# Modulos
+# Modulo Extra
  - Custo: R$35
  - Meta: 300 alunos
  - Data: quando alcançar a meta
