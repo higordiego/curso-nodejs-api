@@ -80,17 +80,17 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
 
 ## O Curso
 
-** O curso será "pago"? **  Mais ou menos.
+***O curso será "pago"?***  Mais ou menos.
 
-** Deve está se perguntando porque vai ser "pago"? **
+***Deve está se perguntando porque vai ser "pago"?***
 
 Não que seja "pago" teremos um modulo a parte que contém integração com pagamento, consultas com gelocalização e implementando alguns padrões de segurança na sua api. Peço ajuda simbolica para manter o curso pois tenho custo como (energia, água, internet, etc..) então como a vida necessita de dinheiro e todos nós necessitamos de conhecimento porque não doar alguns trocados para obtelo.
 
-** Ahhh, então preciso pagar para assistir os videos? **
+***Ahhh, então preciso pagar para assistir os videos?***
 
 Não, o curso sem o modulo extra é gratuito então poderá assistir as aulas no youtube quantas vezes quiser e até baixar(eu sei que vc vai.. hehe)então ajuda é opção só lembrando que o modulo extra só será divulgado a publico caso tenha alcançado a meta.
 
-** Mas, doei mas não alcançou a meta, e ai ? **
+***Mas, doei mas não alcançou a meta, e ai ?***
 
 Bom no caso das pessoas que doarem e não atingiu a meta estipulada, farei aulas privadas via hangout, skype ou qualquer plataforma que suporte tipo de transmissão, para que não saia sem o conhecimento que pagou.
 
