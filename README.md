@@ -1,6 +1,6 @@
 # Desenvolvendo Api Restful com Nodejs
 
-- **Duração:** 5 horas
+- **Duração:** 5 horas (Módulo Básico)
 - **Peridiocidade**: 20 minutos por semana que serão duas aulas de 10 minutos
 
 ## O que vai ter nesse curso ? e o que não vai ter..
@@ -50,7 +50,7 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
   - Mlab
 
 
-## Modulo Extra I (Pagamento + Autenticação)
+## Módulo Extra I (Pagamento + Autenticação)
 
 ## Autenticação com JWT
  - Gerar Token
@@ -77,7 +77,7 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
  - Implementação de padrões de segurança
 
 
-## Modulo Extra II (Realtime)
+## Módulo Extra II (Realtime)
   - Socket.io
   - Alterar API para receber socket.io 
   - Chat
@@ -89,11 +89,11 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
 
 ***Deve está se perguntando porque vai ser "pago"?***
 
-Não que seja "pago" teremos modulos a parte que contém integração com pagamento, consultas com gelocalização e implementando alguns padrões de segurança na sua api. Peço ajuda simbolica para manter o curso pois tenho custo como (energia, água, internet, etc..) então como a vida necessita de dinheiro e  nós necessitamos de conhecimento porque não doar alguns trocados para obtelo.
+Não que seja "pago" teremos módulos a parte que contém integração com pagamento, consultas com gelocalização e implementando alguns padrões de segurança na sua api. Peço ajuda simbolica para manter o curso pois tenho custo como (energia, água, internet, etc..) então como a vida necessita de dinheiro e  nós necessitamos de conhecimento porque não doar alguns trocados para obtelo.
 
 ***Ahhh, então preciso pagar para assistir os videos?***
 
-Não, o curso sem o modulos extras é gratuito então poderá assistir as aulas no youtube quantas vezes quiser e até baixar(eu sei que vc vai.. hehe) então ajuda é opção só lembrando que o modulos extras só será divulgado a publico caso tenha alcançado a meta.
+Não, o curso sem o módulos extras é gratuito então poderá assistir as aulas no youtube quantas vezes quiser e até baixar(eu sei que vc vai.. hehe) então ajuda é opção só lembrando que o módulos extras só será divulgado a publico caso tenha alcançado a meta.
 
 ***Mas, doei mas não alcançou a meta, e ai ?***
 
@@ -101,7 +101,7 @@ Bom no caso das pessoas que doarem e não atingiu a meta estipulada, farei aulas
 
 
 
-# Modulos Extras I e II
+# Módulos Extras I e II
  - Custo: R$35
  - Meta: 300 alunos
  - Data: quando alcançar a meta
