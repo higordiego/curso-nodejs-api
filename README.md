@@ -1,13 +1,12 @@
 # Desenvolvendo Api Restful com Nodejs
 
-- **Duração:** 5 horas (Módulo Básico)
 - **Peridiocidade**: 20 minutos por semana que serão duas aulas de 10 minutos
 
 ## O que vai ter nesse curso ? e o que não vai ter..
 
-Nesse curso abordaremos o uso do nodejs com o banco de dados MongoDB criando uma api restful usando alguns padrões de projetos e no final do curso teremos uma api de estacionamento.
+Nesse curso abordaremos o uso do nodejs com o banco de dados Mysql criando uma api restful usando alguns padrões de projetos e no final do curso teremos uma api de contribuição para animais de ongs.
 
-Nesse curso não  abordaremos o principio da programação com javascript esperamos que você já tenha bagagem da tecnologia juntamente com o mongoDB.
+Nesse curso não  abordaremos o principio da programação com javascript esperamos que você já tenha bagagem da tecnologia juntamente com o mysql.
 
 # O que seria essa bagagem ?
 
@@ -19,20 +18,20 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
   - Apresentação do Professor
   - Entendendo o Projeto que será Criado
   - Criar repositorio (github)
-  - Criar Servidor (heroku)
-  - Criar servidor banco de dados (mlab)
-
-## Estrutura Base
   - Criando Estrutura Básica com o Express
-  - Conexão com o MongoDB
+
+## Criando Conexão
+  - Conectando ao mysql
+  - Criando banco de dados
+  - Estruturando os Modelos
   
 ## Rotas Express
   - Validates
   - Retornos
   - StatusCode
 
-## Models MongoDB
-  - Schema
+## Models Mysql
+  - models
   - Relacionamentos ?
   - Estrutura
 
@@ -45,12 +44,9 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
   - Isso depende disso ou aquilo ?
   - Implementação de Regras
 
-## Deploy
-  - Heroku
-  - Mlab
-
-
-## Módulo Extra I (Pagamento + Autenticação)
+## Deploy AWS
+  - Amazon (benstalk)
+  - RDS (Banco de dados mysql)
 
 ## Autenticação com JWT
  - Gerar Token
@@ -71,38 +67,7 @@ Ter feito um projeto simples usando o mesmo ou conhecimento basico sobre a lingu
 
 ## Gelocalização
  - Consultas
- - Qual estacionamento proximo ?
+ - Qual ongs mais proximas ?
 
 ## Segurança 
  - Implementação de padrões de segurança
-
-
-## Módulo Extra II (Realtime)
-  - Socket.io
-  - Alterar API para receber socket.io 
-  - Chat
-
-
-## O Curso
-
-***O curso será "pago"?***  Mais ou menos.
-
-***Deve está se perguntando porque vai ser "pago"?***
-
-Não que seja "pago" teremos módulos a parte que contém integração com pagamento, consultas com gelocalização e implementando alguns padrões de segurança na sua api. Peço ajuda simbolica para manter o curso pois tenho custo como (energia, água, internet, etc..) então como a vida necessita de dinheiro e  nós necessitamos de conhecimento porque não doar alguns trocados para obtelo.
-
-***Ahhh, então preciso pagar para assistir os videos?***
-
-Não, o curso sem o módulos extras é gratuito então poderá assistir as aulas no youtube quantas vezes quiser e até baixar(eu sei que vc vai.. hehe) então ajuda é opção só lembrando que o módulos extras só será divulgado a publico caso tenha alcançado a meta.
-
-***Mas, doei mas não alcançou a meta, e ai ?***
-
-Bom no caso das pessoas que doarem e não atingiu a meta estipulada, farei aulas privadas via hangout, skype ou qualquer plataforma que suporte tipo de transmissão, para que não saia sem o conhecimento que pagou.
-
-
-
-# Módulos Extras I e II
- - Custo: R$35
- - Meta: 300 alunos
- - Data: quando alcançar a meta
-
